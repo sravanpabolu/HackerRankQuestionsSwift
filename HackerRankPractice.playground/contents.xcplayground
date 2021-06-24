@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true'>
+    <pages>
+        <page name='TOC'/>
+        <page name='CompareTriplets'/>
+        <page name='PlusMinus'/>
+        <page name='DiagonalDifference'/>
+        <page name='AVeryBigSum'/>
+        <page name='StairCase'/>
+    </pages>
+</playground>
