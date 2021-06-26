@@ -7,5 +7,6 @@
         <page name='DiagonalDifference'/>
         <page name='AVeryBigSum'/>
         <page name='StairCase'/>
+        <page name='MiniMaxSum'/>
     </pages>
 </playground>
